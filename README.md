@@ -5,4 +5,5 @@ This project predicts sentiment (Positive/Negative) from user comments using Log
 - Pretrained model (`model.pkl`)
 - Deployed using gradio
 - Frontend with Bootstrap
+
 Demo link: https://trishademada-sentiment-analysis.hf.space/
